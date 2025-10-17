@@ -4,10 +4,16 @@
 
 Computer networking is my passion as a prospective IT student. My DIPLOMA in ICT in Communication Networks is presently being pursued at The Cape Peninsula University of Technology. I have a strong desire to learn and apply what I have learned to real-world problems, and I am always experimenting with new technologies to broaden my skill set.
 
-*   🔭 I’m currently working on towards optaining my DIPLOMA in ICT in Communication Networks
-*   🌱 I’m currently learning Cisco CCNA: Enterprise Networking, Security, and Automation, Coomunication Networks Design, Ethical Hacking, Project Managent
-*   😄 Pronouns: Queen, Her, She 
+*   🔭 I’m currently working towards optaining my DIPLOMA in ICT in Communication Networks.
+*   🌱 Cisco CCNA: Enterprise Networking, Security, and Automation, Coomunication Networks Design, Ethical Hacking, Project Managent are what I am currently learning!
+*   😄 Pronouns: Queen, Her, She
 *   ⚡ Fun fact: I am a lover of ANIME!
+<br>
+<img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" />
+
+
+
+
 
 ## Skills
 
