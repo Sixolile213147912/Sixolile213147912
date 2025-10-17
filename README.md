@@ -34,7 +34,7 @@ Please take some time to have a look at my <a href="https://github.com/Sixolile2
 
 ## Connect with me
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4c9a8054-8527-4de5-87b8-c00805d875d5" /> **LinkedIn:** <a href="https://www.linkedin.com/in/sixolile-beja-043237140/">Sixolile Beja LinkedIn Profile</a>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/4c9a8054-8527-4de5-87b8-c00805d875d5" /> **LinkedIn:** <a href="https://www.linkedin.com/in/sixolile-beja-043237140/">Sixolile Beja's LinkedIn Profile</a>
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/03110bb5-8231-4566-9d7d-6815de24a31b" /> **Email:** <a href="mailto:213147912@mycput.ac.za">Email Sixolile Beja</a>
 
