@@ -3,7 +3,8 @@
 ## Who am I?
 
 Computer networking is my passion as a prospective IT student. My DIPLOMA in ICT in Communication Networks is presently being pursued at The Cape Peninsula University of Technology. I have a strong desire to learn and apply what I have learned to real-world problems, and I am always experimenting with new technologies to broaden my skill set.
-
+<br>
+<br>
 *   🔭 I’m currently working towards optaining my DIPLOMA in ICT in Communication Networks.
 *   🌱 Cisco CCNA: Enterprise Networking, Security, and Automation, Coomunication Networks Design, Ethical Hacking, Project Managent are what I am currently learning!
 *   😄 Pronouns: Queen, Her, She
@@ -11,12 +12,7 @@ Computer networking is my passion as a prospective IT student. My DIPLOMA in ICT
 <br>
 <img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" /><img width="250" height="125" alt="image" src="https://github.com/user-attachments/assets/7382de1f-6432-4011-8096-2f26c1ae8c2c" />
 
-
-
-
-
 ## Skills
-
 Computer Essentials | Online Essentials | Microsoft Word Processing | Microsoft Excel Spreadsheets | Microsoft Outlook Navigation | Telecommunications Etiquette | Administration Organisation | Manicures and Pedicures | Cured Gel Application | Eyebrow and Eyelash Tinting | Eyebrow, Lip and Chin Threading | Technical IT Support | Networking | Operating Systems | System Administration | IT Security | QuickBooks | Entrepreneurship | Online Marketing | Customer Retention | Customer Satisfaction | Sales Operations | Sales Management | Data Analysis | Data Entry | Critical Thinking | Basic Programming and Website Design - Development | Active Listening
 
 ## Work readiness training
